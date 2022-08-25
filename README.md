@@ -6,23 +6,6 @@
 
 Curso de open-bootcamp para consolidar conocimientos de HTML, CSS Y JS.
 
-#### Archivos
-Archivo | Descripción |
--------- | ----------- |
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-**esperando...** | esperando...|
-
-
 ## Autor:
 
 * **github** [jhonholberton](https://github.com/jhonholberton)
